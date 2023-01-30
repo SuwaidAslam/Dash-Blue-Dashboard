@@ -1,5 +1,5 @@
 # Dash Blue Dashboard
-A Dash Blue Dashboard, developed to help visualize the data in an interactive way.
+A Dash Blue Dashboard, developed to help visualize the data in an interactive way with a blue theme to the dashbaord.
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![pythonbadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
